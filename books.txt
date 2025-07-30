@@ -1,0 +1,31 @@
+Book ID,Title,Author,Availability
+871,The Silent Patient,Alex Michaelides,Borrowed
+103,To Kill a Mockingbird,Harper Lee,Available
+947,1984,George Orwell,Available
+220,The Great Gatsby,F. Scott Fitzgerald,Borrowed
+318,The Catcher in the Rye,J.D. Salinger,Available
+506,The Midnight Library,Matt Haig,Borrowed
+144,Becoming,Michelle Obama,Borrowed
+728,Educated,Tara Westover,Available
+999,Where the Crawdads Sing,Delia Owens,Available
+352,The Alchemist,Paulo Coelho,Borrowed
+201,Atomic Habits,James Clear,Borrowed
+884,The Subtle Art of Not Giving,Mark Manson,Available
+132,Sapiens,Yuval Noah Harari,Borrowed
+429,The Power of Now,Eckhart Tolle,Available
+234,It Ends With Us,Colleen Hoover,Available
+715,Verity,Colleen Hoover,Borrowed
+867,The Book Thief,Markus Zusak,Available
+503,A Man Called Ove,Fredrik Backman,Borrowed
+376,The Road,Cormac McCarthy,Available
+284,The Hobbit,J.R.R. Tolkien,Borrowed
+390,The Fellowship of the Ring,J.R.R. Tolkien,Borrowed
+615,Harry Potter and the Sorcerer,J.K. Rowling,Available
+422,The Hunger Games,Suzanne Collins,Borrowed
+187,The Maze Runner,James Dashner,Borrowed
+732,Divergent,Veronica Roth,Available
+504,The Giver,Lois Lowry,Borrowed
+808,The Fault in Our Stars,John Green,Available
+671,Me Before You,Jojo Moyes,Borrowed
+260,Gone Girl,Gillian Flynn,Borrowed
+110,The Girl on the Train,Paula Hawkins,Available
